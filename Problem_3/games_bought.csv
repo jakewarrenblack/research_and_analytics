@@ -1,0 +1,33 @@
+Order_ID,Item_Name,Item_No,Price,Publisher,Rating,Sales Channel
+1000,Grand Theft Auto,S18_1342,29.99,Activision Blizzard,3,Online
+1000,Call of Duty: Vanguard,S20_1421,26.99,Activision Blizzard,5,Online
+1000,Madden NFL23,N23_9809,35.99,EA,5,Online
+1001,Animal Crossing,S21_4320,18.99,Nintendo,4,Retail
+1001,Grand Theft Auto,S18_1342,29.99,Activision Blizzard,5,Retail
+1001,Madden NFL23,N23_9809,35.99,EA,5,Retail
+1002,FIFA 23,S20_1421,26.99,AB,4,Online
+1002,Animal Crossing,S21_4320,18.99,Nintendo,3,Online
+1002,Call of Duty: Vanguard,S20_1421,26.99,Activision Blizzard,3,Online
+1003,Assassin's Creed,A11_3411,26.99,Ubisoft,3,Retail
+1003,Madden NFL23,N23_9809,35.99,EA,5,Retail
+1003,FIFA 23,M15_8474,26.99,EA,4,Retail
+1004,Call of Duty: Vanguard,S20_1421,26.99,Activision Blizzard,5,Online
+1004,Animal Crossing,S21_4320,18.99,Nintendo,3,Online
+1005,Call of Duty: Vanguard,S20_1421,26.99,Activision Blizzard,4,Retail
+1005,FIFA 23,M15_8474,25.99,EA,4,Retail
+1005,Grand Theft Auto,S18_1342,29.99,Activision Blizzard,3,Retail
+1006,Madden NFL23,N23_9809,35.99,EA,5,Online
+1006,Call of Duty: Vanguard,S17_0238,26.99,Activision Blizzard,4,Online
+1006,Assassin's Creed,S20_1421,35.99,Ubisoft,4,Online
+1007,Animal Crossing,S21_4320,18.99,Nintendo,5,Retail
+1007,FIFA 23,M15_8474,25.99,EA,4,Retail
+1008,Grand Theft Auto,S18_1342,29.99,Activision Blizzard,3,Online
+1008,FIFA 23,M15_8474,25.99,EA,4,Online
+1009,Grand Theft Auto,S18_1342,29.99,Activision Blizzard,3,Retail
+1009,FIFA 23,M15_8474,25.99,EA,4,Retail
+1010,Madden NFL23,N23_9809,35.99,EA,5,Online
+1010,Assassin's Creed,A11_3411,35.99,Ubisoft,3,Online
+1010,Grand Theft Auto,S18_1342,29.99,Activision Blizzard,3,Online
+1011,Animal Crossing,S21_4320,18.99,Nintendo,4,Online
+1011,FIFA 23,M15_8474,25.99,EA,4,Online
+1011,Call of Duty: Vanguard,S17_0238,26.99,Activision Blizzard,3,Online
